@@ -1,10 +1,10 @@
 import 'package:flutter/widgets.dart';
 
-class CategoriesModel{
+class PharmacyCatagoriesModel{
   int? id;
   String? title;
   Color? color;
   String? image;
 
-  CategoriesModel(this.id, this.title, this.color, this.image);
+  PharmacyCatagoriesModel(this.id, this.title, this.color, this.image);
 }

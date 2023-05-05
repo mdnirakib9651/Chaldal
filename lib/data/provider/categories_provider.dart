@@ -1,6 +1,5 @@
 import 'package:caldal/data/model/response/categories_model.dart';
 import 'package:flutter/widgets.dart';
-
 import '../model/request/categories_repo.dart';
 
 class CategoriesProvider with ChangeNotifier{
